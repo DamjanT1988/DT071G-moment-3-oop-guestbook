@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c1Hi5olNzPWujr2OYfuXqmKlo0tnPa+dIXzTCi79nr6/yI8XDlhMb62F/rHNDYLWYBe1FtwsQaYD487+tNNI2A==",
+  "success": true,
+  "projectFilePath": "C:\\kodprojekt\\DT071G-moment-3-oop-guestbook\\Moment_3_071.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Damja\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
